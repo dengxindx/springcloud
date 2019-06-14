@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3814a8f-d844-4ad0-96e4-502b113f5b63" name="Default" comment="" />
+    <list default="true" id="f3814a8f-d844-4ad0-96e4-502b113f5b63" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config-repo/microservice-config-client-dev.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config-repo/microservice-config-client.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -40,19 +45,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="311">
-                <caret line="220" column="67" lean-forward="true" selection-start-line="220" selection-start-column="67" selection-end-line="220" selection-end-column="67" />
+              <first_editor relative-caret-position="264">
+                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                 <folding>
-                  <marker date="1560244036326" expanded="true" signature="5157:5513" ph="..." />
-                  <marker date="1560244036326" expanded="true" signature="5515:5560" ph="@{...}" />
-                  <marker date="1560244036326" expanded="true" signature="5645:5650" ph=" { " />
-                  <marker date="1560244036326" expanded="true" signature="5714:5717" ph=" }" />
-                  <marker date="1560244036326" expanded="true" signature="5720:5786" ph="/**...*/" />
-                  <marker date="1560244036326" expanded="true" signature="5788:5808" ph="@{...}" />
-                  <marker date="1560244036326" expanded="true" signature="5844:5849" ph=" { " />
-                  <marker date="1560244036326" expanded="true" signature="5875:5878" ph=" }" />
-                  <marker date="1560244036326" expanded="true" signature="6225:6422" ph="..." />
-                  <marker date="1560244036326" expanded="true" signature="6551:6681" ph="{...}" />
+                  <marker date="1560493276589" expanded="true" signature="5162:5518" ph="..." />
+                  <marker date="1560493276589" expanded="true" signature="5520:5565" ph="@{...}" />
+                  <marker date="1560493276589" expanded="true" signature="5650:5655" ph=" { " />
+                  <marker date="1560493276589" expanded="true" signature="5719:5722" ph=" }" />
+                  <marker date="1560493276589" expanded="true" signature="5725:5791" ph="/**...*/" />
+                  <marker date="1560493276589" expanded="true" signature="5793:5813" ph="@{...}" />
+                  <marker date="1560493276589" expanded="true" signature="5849:5854" ph=" { " />
+                  <marker date="1560493276589" expanded="true" signature="5880:5883" ph=" }" />
+                  <marker date="1560493276589" expanded="true" signature="6230:6427" ph="..." />
+                  <marker date="1560493276589" expanded="true" signature="6556:6686" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -83,6 +88,9 @@
       <find>@EnableDiscoveryClient</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -91,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springcloud_provider2/src/main/java/com/dx/springcloud_provider2/repository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/springcloud-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-ribbon/src/main/java/com/dx/springcloudribbon/service/RibbonService.java" />
         <option value="$PROJECT_DIR$/springcloud-ribbon/src/main/java/com/dx/springcloudribbon/controller/RibbonController.java" />
         <option value="$PROJECT_DIR$/springcloud-provider/src/main/java/com/dx/springcloudprovider/pojo/User.java" />
@@ -104,7 +110,6 @@
         <option value="$PROJECT_DIR$/springcloud-ribbon/src/main/java/com/dx/springcloudribbon/SpringcloudRibbonApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-ribbon/src/main/java/com/dx/springcloudribbon/config/RestConfig.java" />
         <option value="$PROJECT_DIR$/springcloud-ribbon/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/springcloud-feign/src/main/java/com/dx/springcloudfeign/SpringcloudFeignApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-feign/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-feign/src/main/java/com/dx/springcloudfeign/pojo/User.java" />
@@ -142,6 +147,9 @@
         <option value="$PROJECT_DIR$/springcloud-hystrix/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/springcloud-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-hystrix/src/main/java/com/dx/springcloudhystrix/SpringcloudHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/config-repo/microservice-config-client.properties" />
+        <option value="$PROJECT_DIR$/config-repo/microservice-config-client-dev.properties" />
       </list>
     </option>
   </component>
@@ -198,6 +206,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -222,6 +231,11 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="config-repo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -476,15 +490,16 @@
       <option name="presentableId" value="Default" />
       <updated>1559808229469</updated>
       <workItem from="1559808231869" duration="29144000" />
-      <workItem from="1560160305675" duration="41755000" />
+      <workItem from="1560160305675" duration="42548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70899000" />
+    <option name="totallyTimeSpent" value="71692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -503,11 +518,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41084462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36913452" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18996799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36886102" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18996799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -532,22 +547,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springcloud-feign-hystrix/src/main/java/com/dx/springcloudfeignhystrix/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/src/main/java/com/dx/springcloudeurekaserver/SpringcloudEurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -940,22 +939,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/microservice-config-client.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/microservice-config-client-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="311">
-            <caret line="220" column="67" lean-forward="true" selection-start-line="220" selection-start-column="67" selection-end-line="220" selection-end-column="67" />
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
             <folding>
-              <marker date="1560244036326" expanded="true" signature="5157:5513" ph="..." />
-              <marker date="1560244036326" expanded="true" signature="5515:5560" ph="@{...}" />
-              <marker date="1560244036326" expanded="true" signature="5645:5650" ph=" { " />
-              <marker date="1560244036326" expanded="true" signature="5714:5717" ph=" }" />
-              <marker date="1560244036326" expanded="true" signature="5720:5786" ph="/**...*/" />
-              <marker date="1560244036326" expanded="true" signature="5788:5808" ph="@{...}" />
-              <marker date="1560244036326" expanded="true" signature="5844:5849" ph=" { " />
-              <marker date="1560244036326" expanded="true" signature="5875:5878" ph=" }" />
-              <marker date="1560244036326" expanded="true" signature="6225:6422" ph="..." />
-              <marker date="1560244036326" expanded="true" signature="6551:6681" ph="{...}" />
+              <marker date="1560493276589" expanded="true" signature="5162:5518" ph="..." />
+              <marker date="1560493276589" expanded="true" signature="5520:5565" ph="@{...}" />
+              <marker date="1560493276589" expanded="true" signature="5650:5655" ph=" { " />
+              <marker date="1560493276589" expanded="true" signature="5719:5722" ph=" }" />
+              <marker date="1560493276589" expanded="true" signature="5725:5791" ph="/**...*/" />
+              <marker date="1560493276589" expanded="true" signature="5793:5813" ph="@{...}" />
+              <marker date="1560493276589" expanded="true" signature="5849:5854" ph=" { " />
+              <marker date="1560493276589" expanded="true" signature="5880:5883" ph=" }" />
+              <marker date="1560493276589" expanded="true" signature="6230:6427" ph="..." />
+              <marker date="1560493276589" expanded="true" signature="6556:6686" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
