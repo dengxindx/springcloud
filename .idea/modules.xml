@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consul/springcloud-consul.iml" filepath="$PROJECT_DIR$/springcloud-consul/springcloud-consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-client/springcloud-eureka-client.iml" filepath="$PROJECT_DIR$/springcloud-eureka-client/springcloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign/springcloud-feign.iml" filepath="$PROJECT_DIR$/springcloud-feign/springcloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign-hystrix/springcloud-feign-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-feign-hystrix/springcloud-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix/springcloud-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-hystrix/springcloud-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix-dashboard/springcloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/springcloud-hystrix-dashboard/springcloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider/springcloud-provider.iml" filepath="$PROJECT_DIR$/springcloud-provider/springcloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-ribbon/springcloud-ribbon.iml" filepath="$PROJECT_DIR$/springcloud-ribbon/springcloud-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-turbine/springcloud-turbine.iml" filepath="$PROJECT_DIR$/springcloud-turbine/springcloud-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_provider2/springcloud_provider2.iml" filepath="$PROJECT_DIR$/springcloud_provider2/springcloud_provider2.iml" />
+    </modules>
+  </component>
+</project>

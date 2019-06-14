@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-consul" />
+        <module name="springcloud-eureka-client" />
+        <module name="springcloud-eureka-server" />
+        <module name="springcloud-feign" />
+        <module name="springcloud-feign-hystrix" />
+        <module name="springcloud-hystrix" />
+        <module name="springcloud-hystrix-dashboard" />
+        <module name="springcloud-provider" />
+        <module name="springcloud-ribbon" />
+        <module name="springcloud-turbine" />
+        <module name="springcloud_provider2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="springcloud" target="1.8" />
+      <module name="springcloud-consul" target="1.8" />
+      <module name="springcloud-eureka-client" target="1.8" />
+      <module name="springcloud-eureka-server" target="1.8" />
+      <module name="springcloud-feign" target="1.8" />
+      <module name="springcloud-feign-hystrix" target="1.8" />
+      <module name="springcloud-hystrix" target="1.8" />
+      <module name="springcloud-hystrix-dashboard" target="1.8" />
+      <module name="springcloud-provider" target="1.8" />
+      <module name="springcloud-ribbon" target="1.8" />
+      <module name="springcloud-turbine" target="1.8" />
+      <module name="springcloud_provider2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
